@@ -5,24 +5,9 @@
   },
   "authorized_users": [
     {
-      "name": "company",
-      "hardware_id": "o+3R6hz0mo0rkNMupkXwin8ksOJMj0J0+AfwUtCNXRA=",
+      "name": "5080",
+      "hardware_id": "2WzxrqebIUlhSAoSVlJPKzFbVEchfznKtuoQj0Jcu0",
       "expiry_date": "2025-12-31"
-    },
-    {
-      "name": "DL",
-      "hardware_id": "N3uAeu4vAi6kUuu5lN6dU+AFYvwZcQQf3jOiFzjvRa8=",
-      "expiry_date": "2025-12-31"
-    },
-    {
-      "name": "아귀",
-      "hardware_id": "0971f4fdf69aa489",
-      "expiry_date": "2025-12-31"
-    },
-    {
-      "name": "Admin",
-      "hardware_id": "w5cADhMxDyD5MwG3SsbdeQ+cXM+u+W/vkarp76izPTQ=",
-      "expiry_date": "2030-12-31"
     }
   ]
 }
