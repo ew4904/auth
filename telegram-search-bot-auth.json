@@ -4,6 +4,11 @@
     "minimum_required": "1.1.0"
   },
   "authorized_users": [
+      {
+      "name": "home",
+      "hardware_id": "DQ9cjBnvhOZY6H17XkcGuWQIEoCc9iRwHE5W1YdxDTM=",
+      "expiry_date": "2025-12-31"
+    },
     {
       "name": "5080",
       "hardware_id": "2WzxrqebIUlhSAoSVlJPKzFbVEchfznKtuoQj0Jcu0",
