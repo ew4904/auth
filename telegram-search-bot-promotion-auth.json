@@ -23,6 +23,11 @@
       "name": "아귀",
       "hardware_id": "y5vw4A98JKWfDLqp5ZyL4I332EBNrtMm7THeX4VASc",
       "expiry_date": "2025-4-19"
+    },
+    {
+      "name": "아귀 gram",
+      "hardware_id": "YiZEfPAuSWCKpB5WLXbq35ucCympJoQPNKRo5lx6AQY=",
+      "expiry_date": "2025-12-31"
     }
   ]
 }
